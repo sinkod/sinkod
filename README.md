@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinkod
-- 👀 I’m interested in c.
-- 🌱 I’m currently learning c.
+- 👀 I’m interested in cpp, reverse & java.
+- 🌱 I’m currently learning reverse.
 
 
 <!---
